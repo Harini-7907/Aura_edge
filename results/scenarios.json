@@ -1,0 +1,142 @@
+[
+    {
+        "scenario_type": "stable",
+        "cpu_degradation": 2.1500645313360014,
+        "memory_degradation": 3.6501759102147155,
+        "battery_drop": 3.785685905190582,
+        "temperature_increase": 3.9458848566560496
+    },
+    {
+        "scenario_type": "stable",
+        "cpu_degradation": 5.5429550746942375,
+        "memory_degradation": 2.190696076890702,
+        "battery_drop": 2.7495619188927396,
+        "temperature_increase": 1.9306435735629583
+    },
+    {
+        "scenario_type": "stable",
+        "cpu_degradation": 5.367470377631678,
+        "memory_degradation": 6.29611767753442,
+        "battery_drop": 7.6105997887218875,
+        "temperature_increase": 2.678079283846635
+    },
+    {
+        "scenario_type": "severe",
+        "cpu_degradation": 30.892656838759088,
+        "memory_degradation": 33.09430456677826,
+        "battery_drop": 35.09748139517092,
+        "temperature_increase": 33.05819251832808
+    },
+    {
+        "scenario_type": "severe",
+        "cpu_degradation": 28.402505165179917,
+        "memory_degradation": 26.554794998117817,
+        "battery_drop": 49.35819608310172,
+        "temperature_increase": 28.36594545112627
+    },
+    {
+        "scenario_type": "stable",
+        "cpu_degradation": 4.279563803824024,
+        "memory_degradation": 4.1538762829077704,
+        "battery_drop": 4.751645779831769,
+        "temperature_increase": 2.0580834688880523
+    },
+    {
+        "scenario_type": "stable",
+        "cpu_degradation": 6.3783907201629075,
+        "memory_degradation": 5.217368548728205,
+        "battery_drop": 9.784926111834965,
+        "temperature_increase": 2.514137508833414
+    },
+    {
+        "scenario_type": "moderate",
+        "cpu_degradation": 23.29404664252995,
+        "memory_degradation": 21.18519752364246,
+        "battery_drop": 32.92560350466166,
+        "temperature_increase": 19.505577888337907
+    },
+    {
+        "scenario_type": "stable",
+        "cpu_degradation": 2.2749463019339733,
+        "memory_degradation": 3.367389653909281,
+        "battery_drop": 4.315103708816857,
+        "temperature_increase": 1.31916790769451
+    },
+    {
+        "scenario_type": "mild",
+        "cpu_degradation": 14.065385667286888,
+        "memory_degradation": 10.660883575274163,
+        "battery_drop": 14.534103023684356,
+        "temperature_increase": 10.838772986485253
+    },
+    {
+        "scenario_type": "mild",
+        "cpu_degradation": 10.591266769818178,
+        "memory_degradation": 9.466549215400414,
+        "battery_drop": 12.669778220491134,
+        "temperature_increase": 11.556582113987458
+    },
+    {
+        "scenario_type": "stable",
+        "cpu_degradation": 5.654786034001929,
+        "memory_degradation": 3.026831889188582,
+        "battery_drop": 7.8330143836027935,
+        "temperature_increase": 1.6536099750477136
+    },
+    {
+        "scenario_type": "severe",
+        "cpu_degradation": 27.699478267842778,
+        "memory_degradation": 34.25391179621218,
+        "battery_drop": 45.3224293764997,
+        "temperature_increase": 27.19615173970269
+    },
+    {
+        "scenario_type": "moderate",
+        "cpu_degradation": 23.428519201898098,
+        "memory_degradation": 22.75999911546245,
+        "battery_drop": 23.435721079461565,
+        "temperature_increase": 12.417303170752492
+    },
+    {
+        "scenario_type": "moderate",
+        "cpu_degradation": 19.01164787022329,
+        "memory_degradation": 15.661886052115472,
+        "battery_drop": 33.69704186278317,
+        "temperature_increase": 19.37334066922053
+    },
+    {
+        "scenario_type": "moderate",
+        "cpu_degradation": 17.126265440541406,
+        "memory_degradation": 19.992312594922772,
+        "battery_drop": 33.27024730830054,
+        "temperature_increase": 20.357074312605516
+    },
+    {
+        "scenario_type": "mild",
+        "cpu_degradation": 9.854161165486367,
+        "memory_degradation": 9.726392553857885,
+        "battery_drop": 15.613681341631509,
+        "temperature_increase": 6.839191259660547
+    },
+    {
+        "scenario_type": "severe",
+        "cpu_degradation": 33.97822883602477,
+        "memory_degradation": 28.994005051403974,
+        "battery_drop": 38.28981138735925,
+        "temperature_increase": 34.97537606495111
+    },
+    {
+        "scenario_type": "severe",
+        "cpu_degradation": 25.90909412173794,
+        "memory_degradation": 25.471163754247346,
+        "battery_drop": 36.64473695525989,
+        "temperature_increase": 31.2744604170309
+    },
+    {
+        "scenario_type": "severe",
+        "cpu_degradation": 30.964090307319736,
+        "memory_degradation": 28.847673116745,
+        "battery_drop": 43.93832642541692,
+        "temperature_increase": 29.680498877846773
+    }
+]

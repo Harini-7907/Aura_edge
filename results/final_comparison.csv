@@ -1,0 +1,11 @@
+Metric,AURA-Edge,Reactive,AURA-Edge Advantage
+Average CPU at Migration (%),60.0,43.65672384308834,16.343276156911656
+Average Memory at Migration (%),70.0,54.27142350232231,15.728576497677693
+Average Temperature at Migration (C),35.0,50.076903702228236,15.076903702228236
+Average Battery at Migration (%),100.0,77.21861522196428,22.781384778035715
+Migration Count,11,11,
+Migration Rate (%),55.00000000000001,55.00000000000001,
+CPU Advantage (percentage points),,,16.343276156911656
+Memory Advantage (percentage points),,,15.728576497677693
+Temperature Advantage (C),,,15.076903702228236
+Battery Advantage (percentage points),,,22.781384778035715

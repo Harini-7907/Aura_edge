@@ -1,0 +1,6 @@
+timestamp,task_id,previous_resource,new_resource,migration_time,deadline_feasible,score,reason
+2026-09-14T13:13:48,test_task,Local,Edge,0.415,True,116.75,Future resource degradation predicted
+2026-09-14T13:22:38,proactive_task,Local,Cloud,0.16,True,154.07,Future resource degradation predicted
+2026-09-17T11:53:19,proactive_task,Local,Cloud,0.16,True,179.07,Future resource degradation predicted
+2026-09-17T11:57:21,test_task,Local,Edge,0.415,True,116.75,Future resource degradation predicted
+2026-09-17T11:57:46,proactive_task,Local,Cloud,0.16,True,179.07,Future resource degradation predicted

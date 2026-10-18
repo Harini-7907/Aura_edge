@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+
+# Raw research datasets and archives
+data/raw/
+
+# Large training datasets
+data/processed/workload_prediction_dataset.csv
+data/processed/resource_prediction_dataset.csv
+data/processed/prediction_dataset.csv
+data/processed/machine_usage_clean.csv
+
+# Temporary downloads
+*.crdownload
