@@ -1,4 +1,7 @@
 
+import psutil
+import time
+
 def get_live_telemetry():
     """
     Collect resource information from the computer running AURA-Edge.
