@@ -63,6 +63,39 @@ st.markdown(
         background-color: #e0e7ff; padding: 20px; border-radius: 18px;
         text-align: center; color: #3730a3; font-weight: 650; margin-top: 30px;
     }
+        /* Paste the new CSS here */
+    [data-testid="stMetric"] {
+        background: #ffffff;
+        border: 1px solid #e2e8f0;
+        border-radius: 14px;
+        padding: 16px;
+        box-shadow: 0 2px 8px rgba(15, 23, 42, 0.04);
+    }
+
+    [data-testid="stMetricLabel"] {
+        color: #475569;
+        font-weight: 600;
+    }
+
+    [data-testid="stMetricValue"] {
+        color: #312e81;
+        font-weight: 750;
+    }
+
+    div[data-testid="stVerticalBlockBorderWrapper"] {
+        border-radius: 16px;
+    }
+
+    .stAlert {
+        border-radius: 12px;
+    }
+
+    div[data-testid="stDataFrame"] {
+        border: 1px solid #e2e8f0;
+        border-radius: 12px;
+        overflow: hidden;
+    }
+    </style>
     </style>
     """,
     unsafe_allow_html=True,
