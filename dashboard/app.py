@@ -96,7 +96,6 @@ st.markdown(
         overflow: hidden;
     }
     </style>
-    </style>
     """,
     unsafe_allow_html=True,
 )
@@ -158,7 +157,7 @@ def live_resource_panel():
     try:
         live_data = get_live_telemetry()
         st.write("DEBUG: Telemetry loaded:", live_data)
-        
+
         c1, c2, c3 = st.columns(3)
 
         with c1:
